@@ -11,6 +11,7 @@ react-jest- it is for testing
 react-vitals-tell the performaance of your application if ites working fast or quality
 
 eslintconfig is the red lines that we get to tell error
+-red lines were there 
 
 how to run 
 npm run start
@@ -26,4 +27,13 @@ npm create vite@latest
 
 
 Document Object Model (DOM)
-what is document.elementbyid("root")
+what is document.getElementbyId("root")
+-this is for document.getElementbyId
+✅ Finds one element by id
+❌ IDs must be unique
+
+
+-this is for getElementbyClassname
+
+now its turn of 
+querySelector & querySelectorAll
